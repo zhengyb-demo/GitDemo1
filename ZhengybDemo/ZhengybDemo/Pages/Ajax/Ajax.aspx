@@ -91,7 +91,7 @@
             <input type="button" id="btn5" value="OtherWebserver" class="btn150" /><br />
             <br />
             <input type="button" id="btn6" value="ServerInternet" class="btn150" onclick="ajaxDetailData()"/><br />
-           <input type="button" id="btn7" value="ServerInternet" class="btn150" onclick="ajaxDetailData()"/><br />
+           
         </div>
     </form>
 </body>
