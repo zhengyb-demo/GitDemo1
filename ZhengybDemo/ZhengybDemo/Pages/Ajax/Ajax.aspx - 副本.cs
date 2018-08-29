@@ -6,9 +6,9 @@ using System.Web.Services;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ZhengybDemo.Pages.Ajax
+namespace ZhengybDemo.Pages.Ajax1
 {
-    public partial class Ajax : System.Web.UI.Page
+    public partial class Ajax : System.Web.UI.Page1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
