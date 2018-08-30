@@ -17,6 +17,9 @@ namespace ZhengybDemo.Pages.Ajax
         [WebMethod]
         public static string Method(string Par1, string Par2)
         {
+
+            string aa="";
+
             return "Par1:" + Par1 + ",Par2:" + Par2;
         }
     }

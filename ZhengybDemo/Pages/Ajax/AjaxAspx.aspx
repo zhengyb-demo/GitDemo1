@@ -10,7 +10,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+       <table>
+          <tr><td></td></tr>	
+       </table>
     </div>
     </form>
 </body>
